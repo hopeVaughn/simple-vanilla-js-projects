@@ -6,9 +6,9 @@ A simple Vanilla JavaScript app that allows users to click forward and backwards
 
 ## Final Product
 
-!["First Review"](https://github.com/hopeVaughn/reviews/blob/main/reviews-01.png)
-!["Second Review"](https://github.com/hopeVaughn/reviews/blob/main/reviews-02.png)
-!["THird Review"](https://github.com/hopeVaughn/reviews/blob/main/reviews-03.png)
+!["First Review"]([https://github.com/hopeVaughn/reviews/blob/main/reviews-01.png](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/reviews/reviews-01.png))
+!["Second Review"]([https://github.com/hopeVaughn/reviews/blob/main/reviews-02.png](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/reviews/reviews-02.png))
+!["Third Review"]([https://github.com/hopeVaughn/reviews/blob/main/reviews-03.png](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/reviews/reviews-03.png))
 
 ## Getting Started
 

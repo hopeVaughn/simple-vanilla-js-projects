@@ -6,9 +6,9 @@ A simple Vanilla JavaScript app that allows users see menu items and add/filter 
 
 ## Final Product
 
-!["Mobile View"](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/color-flipper/color-flipper-01.png)
-!["Desktop View"](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/color-flipper/color-flipper-02.png)
-!["Filtered View"](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/color-flipper/color-flipper-03.png)
+!["Mobile View"](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/menu/menu-01.png)
+!["Desktop View"](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/menu/menu-02.png)
+!["Filtered View"](https://github.com/hopeVaughn/simple-vanilla-js-projects/blob/main/menu/menu-03.png)
 
 ## Getting Started
 
